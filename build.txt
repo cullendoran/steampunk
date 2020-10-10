@@ -1,0 +1,4 @@
+displayName = The Steampunk Mod
+author = kfasick
+version = 0.1
+hideCode = true
