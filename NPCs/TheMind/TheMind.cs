@@ -13,8 +13,6 @@ using static Terraria.ModLoader.ModContent;
 
 namespace steampunk.NPCs.TheMind
 {
-	//ported from my tAPI mod because I'm lazy
-	// Abomination is a multi-stage boss.
 	[AutoloadBossHead]
 	public class TheMind : ModNPC
 	{
